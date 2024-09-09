@@ -1,0 +1,1 @@
+const GPT_APIURL = 'https://api.openai.com/v1/chat/completions';
